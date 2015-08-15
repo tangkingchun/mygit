@@ -1,4 +1,5 @@
 //author is tang
+//local changed
 #include<stdio.h>
 #include <pthread.h>
 void * thread(void *)

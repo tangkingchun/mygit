@@ -1,3 +1,4 @@
+//author is tang
 #include<stdio.h>
 #include <pthread.h>
 void * thread(void *)
@@ -6,6 +7,6 @@ void * thread(void *)
 }
 int main()
 {
-	pthread_create();
+    pthread_create();
     return 0;
 }
